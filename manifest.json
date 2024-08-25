@@ -1,0 +1,9 @@
+{
+	"name": "Putin",
+	"version_number": "1.0.1",
+	"website_url": "https://discord.gg/HVuMEhWNyt",
+	"description": "That little pest is back",
+	"dependencies": [
+		"BepInEx-BepInExPack-5.4.2100"
+	]
+}
