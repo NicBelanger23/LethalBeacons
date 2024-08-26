@@ -1,10 +1,11 @@
 {
-	"name": "Lethal Beacons",
-	"version_number": "1.0.0",
+	"name": "Lethal_Beacons",
+	"version_number": "1.0.1",
 	"website_url": "https://github.com/NicBelanger23/LethalBeacons",
 	"description": "Adds a beacon to the shop to help you navigate in poor visibility.",
 	"dependencies": [
 		"BepInEx-BepInExPack-5.4.2100",
-		"evaisa.lethallib-0.13.2"
+		"Evaisa-LethalLib-0.13.2",
+		"Evaisa-HookGenPatcher-0.0.5"
 	]
 }
