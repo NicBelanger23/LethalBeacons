@@ -7,6 +7,9 @@ This mod adds a beacon to the terminal shop. This beacon can be scanned from a l
 - Default price $65
 - Weight 12lb
 
+### 1.2.1
+- Updated readme default price
+
 ### 1.2.0
 - Added configurable prices
 
