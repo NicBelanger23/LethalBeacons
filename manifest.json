@@ -1,6 +1,6 @@
 {
 	"name": "Lethal_Beacons",
-	"version_number": "1.2.1",
+	"version_number": "1.3.0",
 	"website_url": "https://github.com/NicBelanger23/LethalBeacons",
 	"description": "Adds a beacon to the shop to help you navigate in poor visibility.",
 	"dependencies": [

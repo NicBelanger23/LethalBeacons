@@ -5,7 +5,13 @@ This mod adds a beacon to the terminal shop. This beacon can be scanned from a l
 - Especially useful in poor weather conditions
 - Configurable prices
 - Default price $65
+- Default range 80m
 - Weight 12lb
+
+### 1.3.0
+- Added configurable range
+- Overhauled LC's scanning system to allow for ranges greater than 40m
+- Fixed a typo
 
 ### 1.2.1
 - Updated readme default price
