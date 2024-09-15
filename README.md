@@ -5,8 +5,15 @@ This mod adds a beacon to the terminal shop. This beacon can be scanned from a l
 - Especially useful in poor weather conditions
 - Configurable prices
 - Default price $65
-- Default range 80m
+- Default range 75m
 - Weight 12lb
+- Bug reports and balancing feedback much appericated!
+
+### 1.4.0
+- Fixed a bug with the flashlight's behaviour caused by this mod
+- The subtext of a scanned beacon now shows the distance the player is from that beacon
+- Cleaned up the debug messaging
+- Changed the default range from 80m to 75m for balancing
 
 ### 1.3.0
 - Added configurable range
